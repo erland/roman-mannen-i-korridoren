@@ -50,3 +50,25 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 - Kapitelnoteringar har flyttats från kapitelfilerna till `kapitel/kapitelnoteringar.md`.
 - Kapitelfilerna är nu renare för Apple Books/EPUB/PDF-export.
 - Nästa rekommenderade steg: skapa ny Apple Books-anpassad EPUB från den rena versionen.
+
+## Apple Books EPUB
+
+- Senaste Apple Books-EPUB: `mannen_i_korridoren_apple_books.epub`
+- Skapad: 2026-05-23
+- Källa: rena kapitelfiler, kapitel 1–28
+- Omslag: `omslag/mannen_i_korridoren_cover_1800x2700.jpg`, inbäddat i EPUB
+- EPUBCheck: ej körd i denna miljö; rekommenderas före uppladdning.
+
+
+
+## Senaste Apple Books-export
+
+- Korrigerad Apple Books-EPUB skapad: `mannen_i_korridoren_apple_books_final.epub`.
+- `dc:publisher` är ifyllt med `Erland Lindmark`.
+- Dubblerad titelsida från kapitelflödet är borttagen.
+- Navigations-TOC är markerad som icke-linjär i läsordningen.
+
+
+## Senaste exportjustering
+
+- Apple Books-EPUB uppdaterad: författarnamnet visas endast en gång på titelbladet och copyrighttexten lyder ”Alla rättigheter reserverade”.

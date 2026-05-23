@@ -59,3 +59,4 @@ Skriv Kapitel 24 – Domarens blick och följ upp mannen med domstolsbricka, rå
 | 2026-05-23 | Baksidestexter skapade | Kort och lång baksidestext samt Apple Books-metadata sparades i `synopsis.md`, `roman-bibel.md` och `exports/apple-books-metadata.md`. |
 
 | 2026-05-23 | Kapitelnoteringar flyttade | Arbetsnoteringar flyttade från kapitelfilerna till `kapitel/kapitelnoteringar.md` inför publicering/export. |
+| 2026-05-23 | Titelblad och copyrighttext korrigerade | Apple Books-EPUB uppdaterad: författarnamn visas en gång; copyrighttext ändrad till ”Alla rättigheter reserverade”. |

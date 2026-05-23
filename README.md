@@ -54,3 +54,18 @@ Högupplösta omslagsfiler har lagts till i `omslag/`: PNG och JPG i 1800 × 270
 ## Publiceringsklar kapitelstruktur
 
 Kapitelfilerna i `kapitel/kapitel-XX.md` innehåller endast läsartext. Tidigare kapitelnoteringar har sparats separat i `kapitel/kapitelnoteringar.md` som arbetsmaterial och ska inte ingå i EPUB/PDF-export.
+
+## Senaste Apple Books-export
+
+- EPUB-fil: `mannen_i_korridoren_apple_books.epub`
+- Skapad: 2026-05-23 med Pandoc 3.1.11.1
+- Inkluderar kapitel 1–28 och högupplöst omslag.
+- Validera med EPUBCheck innan uppladdning till Apple Books.
+
+
+
+## Apple Books EPUB-fix
+
+Senaste korrigerade EPUB: `exports/mannen_i_korridoren_apple_books_final.epub`.
+
+Fixar: ifyllt publisher-fält, borttagen dubblerad titelsida och TOC markerad som icke-linjär lässida.

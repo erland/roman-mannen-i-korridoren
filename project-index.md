@@ -72,3 +72,19 @@
 - Kapitelnoteringar: flyttade till `kapitel/kapitelnoteringar.md`.
 - Kapitelfiler: rena för export.
 - Synkkontroll: 28 kapitel finns och arbetsnoteringar är separerade från läsartext.
+
+## Apple Books-export
+
+- Senaste EPUB: `mannen_i_korridoren_apple_books.epub`
+- Skapad: 2026-05-23
+- Kapitel: 1–28
+- Omslag: högupplöst JPG inbäddad i EPUB
+- EPUBCheck: återstår före publicering
+
+
+
+## Apple Books EPUB-fix
+
+- Fil: `exports/mannen_i_korridoren_apple_books_final.epub`
+- Status: Skapad efter EPUBCheck-fel om tomt `dc:publisher`.
+- Kommentar: Titelsida finns en gång; navigations-TOC är inte en normal lässida.
