@@ -272,27 +272,3 @@ Under texten fanns en bild.
 Elin satt i baksätet på en bil med silvertejp över munnen. Bredvid hennes kind höll någon upp dagens tidning.
 
 Och genom bilrutan bakom henne såg Martin domstolens norrutgång.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin, Klara, Sara och Tomas pressas av ett nytt hot i anslutning till domstolen.
-  - Elin visas fången i en bil vid domstolens norrutgång.
-  - Hotet tvingar Martin att välja mellan rättssalens skydd och Elins liv.
-- Nya kontinuitetspunkter:
-  - Domstolens norrutgång används som konkret hotplats.
-  - Bildbeviset på Elin visar dagens tidning och anknyter hotet till aktuell tid.
-  - Förövarna kan fortfarande kommunicera direkt med Klaras telefon.
-- Relationsförändringar:
-  - Martins känslor för Elin blir akut handlingsdrivande.
-  - Klara tvingas bära hotinformationen tillsammans med Martin, inte bakom honom.
-  - Tomas och Sara reagerar olika, vilket förstärker misstanken om interna läckor.
-- Öppna frågor:
-  - Är Elin verkligen vid norrutgången just nu, eller är bilden iscensatt?
-  - Vem har skickat hotet till Klara?
-  - Kommer Martin gå in som vittne eller lämna rättssalen?
-- Cliffhanger/krok:
-  - Martin ser Elin fasttejpad i en bil vid domstolens norrutgång och hotas: ”GÅ IN ELLER HON DÖR”.
-- Pass 3:
-  - Kapitlet behålls kort och hårt för att fungera som tempoaccelerator inför slutakten.

@@ -313,37 +313,3 @@ Klara slutade andas bredvid honom.
 Och från trappan ovanför, där ingen syntes, kom mannens röst igen.
 
 ”Nu har ni ert rum.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Mannen bakom toalettdörren försöker få Klara att säga ”god morgon”, men hon svarar inte direkt.
-  - Gruppen går tillbaka till receptionen i stället för att ta bakdörren, eftersom Elin misstänker att bakvägen är avsiktligt lockbete.
-  - Receptionisten avslöjar motvilligt att det finns en förbetald bokning i Klaras namn på Granliden Pensionat.
-  - Bokningen gjordes online kl. 03.17, under tiden gruppen befann sig vid färjeläget/serviceboden.
-  - Rummet är 212 och ett nyckelkort har hämtats via nyckelbox.
-  - Mejladressen för bokningen kopplas till ”cederpost.se”, vilket planterar domarspåret starkare.
-  - Telefonen visar ”Andra nyckeln mottagen” efter att Klara talat i receptionen.
-  - Jonas kommer in och varnar dem för att gå upp till rum 212.
-  - Något eller någon faller nerför trappan med ett hotellarmband märkt K. LIND.
-- Nya kontinuitetspunkter:
-  - Bokningen på Granliden Pensionat är gjord i Klaras namn och förbetald av ”K. Lind”.
-  - Bokningen gjordes kl. 03.17 samma natt.
-  - Rum 212 är centralt och ett nyckelkort har hämtats från nyckelboxen.
-  - Mejladressen innehåller domarspåret: cederpost.se.
-  - Telefonen registrerar Klaras röst indirekt när hon talar med receptionisten.
-  - Jonas känner igen betydelsen av rum 212 och säger ”Då är han här.”
-- Relationsförändringar:
-  - Klara blir mer aktiv och kräver information själv, vilket försvagar Martins kontroll över situationen.
-  - Martin inser att hans upprepade ”jag vet” låter som självövertalning.
-  - Elin agerar snabbt och strategiskt men blir skakad av Ceder-kopplingen.
-  - Jonas framstår som rädd på ett sätt som antyder att han vet mer om personen eller platsen än han sagt.
-- Öppna frågor:
-  - Vem låg eller föll i trappan med armband märkt K. LIND?
-  - Var mannen bakom toalettdörren samma person som mannen vid frukosten?
-  - Vad finns i rum 212?
-  - Vad betyder cederpost.se och är Henrik Ceder direkt inblandad?
-  - Varför var Jonas vid skåpbilen och varför reagerade han på rum 212?
-- Cliffhanger/krok:
-  - En kropp eller tungt föremål med armband märkt K. LIND faller nerför trappan och mannens röst säger: ”Nu har ni ert rum.”

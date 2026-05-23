@@ -524,39 +524,3 @@ Han lade på samtalet och såg rakt mot containern där de gömde sig.
 Sedan sa han lågt, utan att höja rösten:
 
 ”Martin. Ni har tio minuter innan Patrik spärrar vägen ut ur Sundhamn.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Jonas varning följs upp: den manlige polisen Patrik låser huvudentrén och vill säkra Martins telefon.
-  - Den kvinnliga polisen Sara Holm framstår som tveksam till Patriks agerande.
-  - Martin, Klara och Elin förstår att en preliminär händelserapport kan ha markerat Martin som misstänkt eller åtminstone identifierad på fel sätt.
-  - Elin och Klara pressar Martin att inte göra en formell anmälan direkt eftersom systemet redan kan vara manipulerat.
-  - Sara hjälper dem ut via en servicedörr för att undvika ett felaktigt förhör.
-  - Klara visar egen handlingskraft genom att ha stängt av platsdelning och genom att resonera kring varför de inte kan åka till Lena.
-  - Lena meddelar att två poliser varit hemma hos henne och frågat efter Martin, Klara och om Klara har passet med sig.
-  - Jonas dyker upp på hotellets innergård och säger att de har tio minuter innan Patrik spärrar vägen ut ur Sundhamn.
-- Nya kontinuitetspunkter:
-  - Den manlige polisen heter Patrik.
-  - Den kvinnliga polisen heter Sara Holm.
-  - Sara kan vara en möjlig framtida trovärdig kontakt, men hennes roll är inte säkrad.
-  - En bild av en preliminär händelserapport visar Martin Lind som identifierad i samband med våldsamt angrepp/misstänkt gärningsman på flykt; äktheten är ännu inte bekräftad.
-  - Klara har stängt av platsdelning.
-  - Två poliser har varit hos Lena och frågat om pass, vilket antyder att flyktvägar kan bevakas.
-- Relationsförändringar:
-  - Martin tappar ytterligare auktoritet gentemot Klara, som nu agerar snabbare och mer strategiskt.
-  - Martin och Elin kommer närmare genom krisens förtroende, men Elins dolda bakgrund blir mer märkbar.
-  - Sara Holm blir en osäker men potentiellt viktig allierad.
-  - Jonas går från varning på telefon till fysisk närvaro, vilket ökar hans tvetydighet.
-- Öppna frågor:
-  - Är händelserapporten äkta eller manipulerad?
-  - Är Patrik korrupt, vilseledd eller agerar han på falsk information?
-  - Varför hjälper Sara Holm dem och hur mycket vågar hon göra?
-  - Varför frågade poliserna Lena om Klaras pass?
-  - Hur hittade Jonas innergården och varför vågar han komma dit?
-  - Vad menar Jonas med att vägen ut ur Sundhamn ska spärras?
-- Cliffhanger/krok:
-  - Jonas dyker upp på innergården och varnar att Patrik snart spärrar vägen ut ur Sundhamn.
-- Pass 3:
-  - Jonas varning behålls som aktiv vändning; kapitlet driver från flykt till riktad tidspress.

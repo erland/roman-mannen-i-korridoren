@@ -363,35 +363,3 @@ Skärmen visade inget namn.
 Inte ens ett nummer.
 
 Bara en tom rad och den gröna svarsknappen.
-
----
-
-## Kapitelnotering
-- Viktiga händelser:
-  - Martin tar sig ur konfrontationen vid rum Eken genom en halvsanning om brandskåpet.
-  - Jonas varnar honom indirekt för att dra slutsatser och nämner att människor kan börja se avvikelser där de inte finns.
-  - Martin börjar föra systematiska, handskrivna anteckningar om K-417, Jonas, sms:et och händelserna vid Eken.
-  - Sandra antyder att Jonas tidigare haft märkliga samtal, kunder som saknas i systemet och bristfälliga fakturaunderlag.
-  - Klara visar frustration över att Martin ofta låter jobbet gå före henne, samtidigt som hon tänker på hans kontrollbehov.
-  - Amir varnar Martin för att fel fråga är vad K-417 är; den viktiga frågan är vem som vet att Martin frågar.
-  - Martin upptäcker ett svagt tryckmärke i anteckningsblocket med sitt namn och telefonnummer.
-  - Martin fotograferar och sparar spåret på ett USB-minne under missvisande filnamn.
-- Nya kontinuitetspunkter:
-  - Martin använder ett svart anteckningsblock för att dokumentera händelserna.
-  - Sandra har tidigare märkt oegentligheter kring Jonas, men vågar inte anklaga honom.
-  - Amir känner sig utsatt efter att ha hjälpt Martin och är rädd att Martins frågor redan är kända.
-  - Någon kan ha haft fysisk närhet till Martins anteckningsblock eller skrivit hans namn/nummer så att tryckmärken syns.
-  - Martin sparar en bildfil som `budgetmall_november` på ett USB-minne.
-- Relationsförändringar:
-  - Martin och Jonas får en mer uttalad psykologisk maktkamp.
-  - Sandra går från vardaglig kollega till försiktig informationskälla.
-  - Amir blir mer rädd och försöker stoppa Martin från att fortsätta.
-  - Klara etableras tydligare som sårad av Martins arbetsfixering och kontrollbehov.
-- Öppna frågor:
-  - Vem skrev Martins namn och telefonnummer så att tryckmärket hamnade i blocket?
-  - Hur mycket vet Jonas om Martins anteckningar?
-  - Vilka kunder och fakturaunderlag syftade Sandra på?
-  - Vilken leverantörsgrupp var K-417 kopplad till?
-  - Vem ringer Martin från dolt/namnlöst nummer?
-- Cliffhanger/krok:
-  - Martin är på väg till Klaras utvecklingssamtal när mobilen ringer från en tom/namnlös avsändare.

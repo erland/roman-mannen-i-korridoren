@@ -659,36 +659,3 @@ Avsändare: **Elin**.
 Meddelandet var skickat för sjutton minuter sedan.
 
 **Förlåt, Martin. Jag berättade var ni var.**
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin och Klara tas om hand av Tomas Berg och Liv Ekman efter sågverket.
-  - De förs till en skyddad men osäker förhörsplats.
-  - Martin får veta att han förekommer i ett internt system kopplat till Amir Haddads mord.
-  - Martin lämnar ett omfattande förhör om Jonas, K-417, Amir, Elin, Cederlistan och flykten.
-  - Klara förhörs separat av Liv och får se en bild på Elin vid kontorsbaracken.
-  - Åsa Holm, åklagare, visar att Cederlistan innehåller posten C-7: Rådman.
-  - Jonas hittas vid liv, men Elins telefon ligger i hans jacka.
-- Nya kontinuitetspunkter:
-  - Kontaktpersonen heter Tomas Berg.
-  - Åklagaren heter Åsa Holm.
-  - Martin är felaktigt/strategiskt utpekad i ett internt system kopplat till mordet på Amir.
-  - Cederlistan innehåller posten C-7 med titeln Rådman.
-  - Ett skyddat kompletterande förhör inför rätten kan bli aktuellt mycket snart.
-  - Elins telefon hittas i Jonas jacka.
-- Relationsförändringar:
-  - Martin och Klara tvingas acceptera separation under skydd, men Martin är ärligare om sin rädsla.
-  - Klara börjar se Liv som både manipulativ och möjligtvis mänsklig.
-  - Martins känslor för Elin blir tydligare genom hur starkt han reagerar på misstanken mot henne.
-  - Tomas etableras som möjlig men ännu osäker myndighetskontakt.
-- Öppna frågor:
-  - Är Tomas Berg och Liv Ekman helt pålitliga?
-  - Vem lade in Martin i det interna systemet?
-  - Vem är rådmannen bakom C-7?
-  - Är Elins meddelande äkta, framtvingat eller planterat?
-  - Varför låg Elins telefon i Jonas jacka?
-  - Vad har hänt Jonas under tiden han varit borta?
-- Cliffhanger/krok:
-  - Elins telefon visar meddelandet: ”Förlåt, Martin. Jag berättade var ni var.”

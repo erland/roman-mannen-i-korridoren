@@ -145,28 +145,3 @@ Okänt nummer.
 Det hade kommit medan han stod i arkivrummet.
 
 *Du såg fel person.*
-
----
-
-## Kapitelnotering
-- Viktiga händelser:
-  - Martin kommer tidigt till kontoret och ser Jonas Ryd tillsammans med en okänd man vid arkivrummet.
-  - Jonas beter sig spänt och avvisande och påstår att han bara hämtat gamla papper.
-  - Martin hittar en tom plastficka med projektnumret K-417 och fotograferar etiketten.
-  - Den okända mannen visar att han har sett Martin och beter sig oroande lugnt.
-- Nya kontinuitetspunkter:
-  - Martin Lind är 46 år, frånskild och har dottern Klara varannan vecka.
-  - Martin arbetar på Stenmark & Co med upphandlingar, underlag och kontroll av entreprenörer.
-  - Jonas Ryd är säljare och brukar normalt komma senare på morgonen.
-  - Projektnumret K-417 är första konkreta ledtråden.
-  - Korridoren, arkivrummet och nödutgången etableras som hotfulla motiv.
-- Relationsförändringar:
-  - Martin och Klara har en vardaglig, lätt ironisk men varm relation.
-  - Martins bild av Jonas förändras från kollega till möjlig fara eller gåta.
-- Öppna frågor:
-  - Vem är mannen i rocken?
-  - Vad innehöll den svarta pärmen?
-  - Vad är projekt K-417?
-  - Hur fick någon Martins nummer och visste vad han såg?
-- Cliffhanger/krok:
-  - Martin får ett sms från okänt nummer: ”Du såg fel person.”

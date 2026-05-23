@@ -409,34 +409,3 @@ Mjuk. Nästan vänlig.
 ”Martin Lind”, sa mannen. ”Nu har du sprungit färdigt.”
 
 Samtalet bröts.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Klara avslöjar att hon fått anonyma meddelanden redan flera månader före Martins upptäckt av Jonas.
-  - Meddelandena innehåller detaljer om Martins vardag och antyder att hotet övervakat familjen länge.
-  - Ett äldre meddelande nämner ”den snälla kvinnan”, vilket antyder att Elin var planerad eller känd innan Martin mötte henne.
-  - Gruppen upptäcker att förföljare söker vid ladan och flyr över ett blött fält med Klara som förare.
-  - Jonas avslöjar att han varit vid ladan tidigare och att platsen använts som förvaringsplats för dokument, kontanter och ibland människor.
-  - Knapptelefonen får nya meddelanden i realtid och ringer sedan med avsändaren ”MAMMA”.
-  - Martin svarar och hör Lena säga att en man står i hennes hall och vill prata med Klara.
-- Nya kontinuitetspunkter:
-  - Klara har haft kontakt med de anonyma avsändarna sedan sommaren.
-  - De anonyma avsändarna känner till Martins privata vanor och Klaras relation till honom.
-  - Hotet tycks ha haft kunskap om Elin innan hon mötte Martin.
-  - Ladan är kopplad till Jonas tidigare inblandning och kan ha använts som kriminell förvaringsplats.
-  - Lena är nu direkt hotad av en man i sin hall.
-- Relationsförändringar:
-  - Martin tvingas se Klara som aktiv och hemlighetsbärande, inte bara som skyddsbehövande.
-  - Klara anklagar Martin för kontrollbehov men visar samtidigt att hon försökt skydda honom.
-  - Martin och Elins tillit prövas av meddelandet som antyder att Elin var känd i förväg.
-  - Jonas blir både mer användbar och mer belastad genom sin kunskap om ladan.
-- Öppna frågor:
-  - Vem gav Klara knapptelefonen?
-  - Varför har Klara valts ut som kontaktväg?
-  - Hur kunde hotet känna till Elin i förväg?
-  - Vem står i Lenas hall?
-  - Vad innebär meddelandet ”Fråga Jonas om ladan”?
-- Cliffhanger/krok:
-  - En okänd man hos Lena tar över samtalet och säger: ”Martin Lind. Nu har du sprungit färdigt.”

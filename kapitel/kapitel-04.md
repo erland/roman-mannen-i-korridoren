@@ -381,37 +381,3 @@ Sedan tog Martin emot ett nytt meddelande.
 Det hade ingen avsändare.
 
 *Nu vet hon också.*
-
----
-
-## Kapitelnotering
-- Viktiga händelser:
-  - Martin svarar på det namnlösa samtalet efter Kapitel 3.
-  - Den förvrängda rösten säger åt honom att inte gå till Klaras utvecklingssamtal.
-  - Samtalet lämnar inga spår i samtalslistan.
-  - Rösten visar att den känner till Martins antecknande, fel dörrar och att han är på väg till mötet.
-  - Jonas ser Martin från kontoret och får ett meddelande: ”Han fortsätter.”
-  - Martin åker mot Klaras skola och börjar tolka neutrala vardagsdetaljer som möjliga hot.
-  - Klara får egen perspektivscen och märker att Martin döljer något.
-  - Klara ser först en oklar man i skolans korridor/vid anslagstavlan och sedan någon utanför skolan.
-  - Martin upptäcker att mannen i mörk rock står vid skolan och har sett både honom och Klara.
-  - Martin får ett nytt anonymt meddelande: ”Nu vet hon också.”
-- Nya kontinuitetspunkter:
-  - Namnlösa samtal kan vara tekniskt manipulerade eller raderade från Martins synliga samtalslista; detta måste få rimlig förklaring senare.
-  - Den okända rösten formulerar hot som ”möjligheter” snarare än direkta order.
-  - Jonas är pressad och verkar veta mer än han säger, men han är ännu inte entydigt avslöjad som gärningsman.
-  - Någon övervakar Martin tillräckligt nära för att veta att han fortsätter mot Klaras skola.
-  - Mannen i mörk rock kan röra sig mellan Martins arbetsplats och Klaras skola, eller åtminstone få information om var Martin ska vara.
-- Relationsförändringar:
-  - Martin börjar förstå att hans grävande kan dra in Klara direkt.
-  - Klara märker att Martins ”jobbgrej” inte är vanlig stress.
-  - Jonas framstår mer rädd och fångad än öppet aggressiv i sin korta perspektivscen.
-- Öppna frågor:
-  - Vem ringde Martin från numret utan namn?
-  - Hur kunde samtalet sakna spår i samtalslistan?
-  - Vem skickade meddelandet till Jonas?
-  - Var Jonas delaktig i hotet eller bara informerad om det?
-  - Hur visste mannen i mörk rock var Klaras skola låg och när Martin skulle dit?
-  - Var mannen i skolans korridor samma person som mannen utanför, eller ytterligare någon?
-- Cliffhanger/krok:
-  - Mannen i mörk rock visar sig vid Klaras skola och Martin får meddelandet: ”Nu vet hon också.”

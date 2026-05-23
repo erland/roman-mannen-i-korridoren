@@ -583,36 +583,3 @@ Klara såg det före honom. Skärmen tändes mellan dem, kall och klar.
 Martin hann läsa orden.
 
 Sedan slocknade gatlyktorna i tunneln framför dem.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin och Klara avbryter utvecklingssamtalet efter hotet ”Nu vet hon också.”
-  - Martin hittar en gul lapp med Klaras namn i skolkorridoren.
-  - Klara kräver sanningen och får veta att Martin misstänker koppling till kriminalitet på jobbet.
-  - Martin och Klara lämnar skolan, men Martin upptäcker först en vit skåpbil och sedan en mörk Volvo.
-  - Klara ringer sin mamma Lena trots Martins försök att vänta.
-  - Volvon följer efter dem genom flera svängar och signalerar med helljuset.
-  - Ett nytt meddelande kommer: ”Stanna bilen så får flickan gå.”
-- Nya kontinuitetspunkter:
-  - Klaras mamma heter Lena.
-  - Lena och Martin har en historia av konflikt kring Martins tystnad och kontrollbehov.
-  - Klara har platsdelning på med Lena.
-  - Hotaktörerna kan komma nära Klaras skola och lämna synliga meddelanden där.
-  - En vit skåpbil och en mörk Volvo introduceras som möjliga hotfordon; Volvon bekräftas genom sitt beteende.
-  - Martin väljer att inte köra hem och tvekar inför att åka till polisen.
-- Relationsförändringar:
-  - Klara går från irritation till rädsla och börjar förstå allvaret.
-  - Martin tvingas berätta mer för Klara, men tappar samtidigt hennes förtroende genom sin kontroll.
-  - Lena dras in i hotbilden via telefonsamtalet och får veta att Martin och Klara blir följda.
-  - Pass 2: Klaras besvikelse över Martins reflexmässiga lögner fördjupas; konflikten handlar inte bara om fara utan om hennes behov av att bli behandlad som en person med rätt till sanningen.
-- Öppna frågor:
-  - Vem lämnade lappen med Klaras namn?
-  - Vem kör den mörka Volvon?
-  - Var den vita skåpbilen ett hot eller ett villospår?
-  - Hur mycket vet hotaktörerna om Klara och Lena?
-  - Varför slocknar gatlyktorna i tunneln just när meddelandet kommer?
-  - Vad händer om Martin stannar — och vad händer om han fortsätter?
-- Cliffhanger/krok:
-  - Martin får meddelandet ”Stanna bilen så får flickan gå” samtidigt som tunneln framför dem blir mörk.

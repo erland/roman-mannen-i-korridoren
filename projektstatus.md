@@ -2,7 +2,7 @@
 
 ## Nuvarande fas
 
-Sista mikroputs genomförd efter användarens manuella kapiteljusteringar. Romanen är redo för ny PDF/EPUB-export.
+Baksidestexter och Apple Books-metadata är skapade efter användarens senaste manusversion. Romanen är redo för ny PDF/EPUB-export och publiceringsförberedelse.
 
 ## Senast godkända kapitel eller del
 
@@ -18,6 +18,7 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 - Ska slutbilden med mannen i ljus linnekavaj vara en verklig fortsättningskrok eller Martins paranoia? Nuvarande version lämnar detta medvetet öppet.
 - Ska Elin/Helenas öde lämnas öppet, förklaras i epilog eller sparas som möjlig fortsättning? Nuvarande version lämnar det öppet.
 - Ska romanen exporteras till PDF, EPUB eller båda?
+- Ska den korta eller långa baksidestexten användas som primär butikstext?
 
 ## Risker att bevaka vid eventuell sista provläsning
 
@@ -33,7 +34,8 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 - Undertitel: Ingenstans är nog långt borta
 - Författare: Erland Lindmark
 - Kapitel: 1–28 finns i `kapitel/`
-- Omslagsbild: Skapad och sparad som `omslag/omslag_mannen_i_korridoren.png`
+- Baksidestexter: Kort och lång version skapade i `synopsis.md` och `exports/apple-books-metadata.md`
+- Omslagsbild: Skapad – original samt högupplösta PNG/JPG 1800×2700 finns i `omslag/` och sparad som `omslag/omslag_mannen_i_korridoren.png`
 - Senaste manusfas: Pass 3 genomfört, slutputs/exportförberedelse genomförd och sista mikroputs gjord efter användarens manuella ändringar
 
 ## Användarens aktuella önskemål
@@ -41,3 +43,10 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 - Nära psykologisk känsla för vad personerna tänker.
 - Tydlig cliffhanger eller krok i slutet av varje kapitel.
 - Thriller med romance-inslag, vuxen målgrupp.
+
+
+## Slutputs 2026-05-23
+
+- Kapitelnoteringar har flyttats från kapitelfilerna till `kapitel/kapitelnoteringar.md`.
+- Kapitelfilerna är nu renare för Apple Books/EPUB/PDF-export.
+- Nästa rekommenderade steg: skapa ny Apple Books-anpassad EPUB från den rena versionen.

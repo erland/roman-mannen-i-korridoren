@@ -25,6 +25,32 @@ Spännande, lätt obehaglig, psykologiskt nära och romantisk. Romanen ska stegv
 ## Premiss
 När kontorsanställde Martin Lind märker att en kollega beter sig alltmer märkligt börjar han ställa frågor. Snart får han anonyma varningar om att sluta gräva. När hoten närmar sig hans dotter väljer han flykten, men efter att han av misstag bevittnar ett brutalt brott blir han själv ett mål. Ju längre han springer, desto mindre vet han om hotet finns utanför honom — eller redan har flyttat in i hans huvud.
 
+## Baksidestexter
+
+### Kort baksidestext
+
+Martin Lind har alltid trott att det räcker att göra rätt för sig. Men när en kollega börjar bete sig märkligt och anonyma varningar når honom genom arbetsplatsens tysta korridorer, dras han in i något han inte förstår.
+
+När hotet närmar sig hans dotter Klara väljer han flykten. Men efter att ha bevittnat ett grovt brott blir Martin själv måltavla. Snart vet han inte längre vem han kan lita på — polisen, rättssalen, kvinnan som hjälper honom, eller ens sina egna misstankar.
+
+*Ingenstans är nog långt borta.*
+
+### Lång baksidestext
+
+Martin Lind är en vanlig man med ett vanligt arbete, ett ordnat liv och en dotter han skulle göra vad som helst för att skydda. Han tror på regler, på dokumentation, på att sanningen till slut går att förklara.
+
+Men på kontoret börjar en kollega dyka upp på fel platser, försvinna vid fel tillfällen och tala med människor han påstår sig inte känna. Martin försöker först låta bli att se sambanden. Sedan kommer den första varningen.
+
+**Sluta gräv.**
+
+När hotet rör sig närmare hans dotter Klara gör Martin det enda han kan tänka sig: han flyttar, byter rutiner och försöker börja om. I den nya staden möter han Elin, en kvinna som verkar förstå rädslan bättre än någon annan. För första gången på länge anar Martin att det kanske finns någon han kan lita på.
+
+Då råkar han se något han aldrig borde ha sett.
+
+Ett grovt brott. Män som känner igen honom. Ett nätverk som tycks veta var han är innan han själv hunnit fram. Stad efter stad tvingas Martin och Klara fly vidare, medan varje telefon, hotellkorridor och okänd blick blir ett möjligt hot. När Martin till slut bestämmer sig för att vittna upptäcker han att faran kanske inte bara finns på gatan — utan också i rättssalen.
+
+*Mannen i korridoren* är en psykologisk thriller om rädsla, föräldraskap, tillit och den punkt där försiktighet övergår i paranoia.
+
 ## Romanens kärna
 - Huvudperson: Martin Lind
 - Mål: Först förstå vad kollegan gör, sedan skydda sin dotter, till sist överleva och vittna.
@@ -199,3 +225,8 @@ Pass 3 genomfört 2026-05-22: språk, tempo och cliffhangers har setts över. Ro
 - Revision: Pass 1, Pass 2 och Pass 3 genomförda.
 - Slutputs och exportförberedelse: Genomförd 2026-05-22.
 - Nästa steg: PDF/EPUB-export eller sista manuell provläsning.
+
+
+## Omslag för publicering
+
+Högupplösta omslagsfiler har lagts till i `omslag/`: PNG och JPG i 1800 × 2700 px.

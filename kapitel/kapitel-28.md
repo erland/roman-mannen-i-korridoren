@@ -611,34 +611,3 @@ Nästan.
 Längst bort, vid trapphuset, stod en man med ryggen mot honom.
 
 Han bar ljus linnekavaj.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin och Klara passerar säkerhetskontrollen trots Elins närvaro med Klaras pass.
-  - Elin lämnar Klaras pass till mannen i ljus linnekavaj och verkar medvetet dra hotet åt ett annat håll.
-  - Klara avslöjar att Elin tidigare gett henne ett alternativt pass/identitet som aktiverades via Livs kodord.
-  - Tomas dyker upp vid gaten, får Martins spärrade bokning godkänd och erkänner att han inte sålde dem men lät fel person komma nära.
-  - Martin och Klara flyger till Lissabon och tas emot av Teresa, en kontakt till Liv.
-  - I skyddslägenheten hittar Martin ett fotografi som antyder att Elin tidigare hette Helena och har en okänd koppling till Portugal.
-  - Slutet ger en tillfällig trygghet men avslutas med ny hotbild: mannen i ljus linnekavaj finns i korridoren utanför lägenheten.
-- Nya kontinuitetspunkter:
-  - Klara har fått en alternativ identitet/passhandling via Elin och Livs kodord Blå.
-  - Elin/Helenas bakgrund i Portugal måste betraktas som en ny öppen tråd vid eventuell fortsättning eller epilogrevision.
-  - Teresa är en tidigare polis eller myndighetskontakt i Lissabon som hjälper Liv Ekman.
-  - Tomas roll förblir tvetydig men lutar mot felbedömd skyddsperson snarare än huvudförrädare.
-  - Martin och Klara är i Lissabon, i en skyddslägenhet med sjuttiotvå timmars tillfällig säkerhet.
-- Relationsförändringar:
-  - Klara agerar självständigt och skyddar Martin från att rusa tillbaka till Elin.
-  - Martin accepterar att han inte kan rädda alla samtidigt och väljer Klara.
-  - Elins kärlek/lojalitet visas genom uppoffring snarare än förklaring.
-  - Martin och Klara når en ny, ärligare form av tillit där han inte lovar falsk säkerhet.
-  - Pass 2: Klaras reaktion på passbytet fördjupar temat att skydd kan kännas som svek. Martins slutval blir därför inte bara att fly, utan att sluta låtsas att han kan rädda alla genom kontroll.
-- Öppna frågor:
-  - Lever Elin, och vem är Helena?
-  - Vem skickade meddelandet om sjuttiotvå timmars säkerhet?
-  - Varför finns mannen i ljus linnekavaj i korridoren i Lissabon?
-  - Är Lissabon verklig trygghet, en ny fälla eller början på ett liv i ständig vaksamhet?
-- Pass 3:
-  - Slutets öppna oro behålls; ingen extra förklaring läggs till för att bevara paranoid efterklang.

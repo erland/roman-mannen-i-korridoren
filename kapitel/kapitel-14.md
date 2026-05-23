@@ -427,36 +427,3 @@ På skärmen fanns ett enda inkommande samtal.
 Namnet som visades var:
 
 **AMIR KOPIA**
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin, Klara, Elin och Jonas följer upp hotmeddelandet vid gamla färjeläget.
-  - De hittar ett vitt passerkort i Klaras necessär efter ett nytt meddelande: ”Hon bär mer än en sak.”
-  - Elin fotograferar taggen, passerkortet och meddelandena innan gruppen gör sig av med spår.
-  - Gruppen kastar telefoner, tagg, passerkort, bankkort och andra spår i vattnet.
-  - Elin berättar mer om sin koppling till rådman Henrik Ceder och ett försvunnet vittne.
-  - Någon kommer till färjeläget och blockerar vägen tillbaka.
-  - En okänd telefon i serviceboden börjar ringa med namnet ”AMIR KOPIA”.
-- Nya kontinuitetspunkter:
-  - Klaras ryggsäck innehöll också ett vitt passerkort utan synlig text, bara ett grått nummer längs kanten.
-  - Passerkortet kan eventuellt användas för att placera Klara på en plats eller skapa falska spår.
-  - Elin fotograferade bevisen i flygplansläge innan hennes telefon kastades.
-  - Gruppen har nu gjort sig av med sina vanliga telefoner, flera kort, taggen och det vita passerkortet.
-  - Elins koppling till Henrik Ceder gäller ett tidigare mål där hennes källa försvann efter att Ceder släppte Marko Vasic.
-  - En okänd telefon i serviceboden visar samtalet ”AMIR KOPIA”.
-- Relationsförändringar:
-  - Klara blir mer självständig och konfronterande efter intrånget i hennes ryggsäck.
-  - Martin försöker låta Klara behålla kontrollen över sina egna saker, delvis tack vare Elins ingripande.
-  - Elin och Martin får ett ögonblick av djupare förtroende när hon berättar varför hon hjälper dem.
-  - Jonas fortsätter vara praktiskt användbar men moraliskt misstänkt.
-- Öppna frågor:
-  - Vem placerade det vita passerkortet i Klaras necessär?
-  - Vad öppnar passerkortet eller vilken plats kan det koppla Klara till?
-  - Vem närmar sig färjeläget med ficklampa?
-  - Vem har lagt telefonen i serviceboden?
-  - Vad betyder ”AMIR KOPIA” och är det verkligen Amirs kopia?
-  - Var finns Elins foton nu när hennes telefon kastats, och kan de återskapas eller förlorades de?
-- Cliffhanger/krok:
-  - En okänd telefon i serviceboden ringer med namnet ”AMIR KOPIA”.

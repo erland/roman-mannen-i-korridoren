@@ -557,3 +557,8 @@ Genomfört 2026-05-22. Nya/skarpare cliffhangerpunkter i kapitel 4, 16, 21, 24 o
 - Samtliga kapitel har rubrik och kapitelnotering.
 - Titel, undertitel, författare och omslagsstatus är synkade inför export.
 - Inga nya parallella statusfiler ska skapas inför export.
+
+
+## Publiceringsförberedelse 2026-05-23
+
+- Kapitelnoteringar är arkiverade i `kapitel/kapitelnoteringar.md` och ska inte ingå i läsarversioner.

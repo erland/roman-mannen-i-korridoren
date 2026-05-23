@@ -405,39 +405,3 @@ Bara ett ord.
 ”Spring.”
 
 Sedan tändes sågverkets gamla arbetslampor, en efter en, över hela gården.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin, Klara, Elin och Jonas flyr vidare efter samtalet från Lena.
-  - Klara vill åka direkt till Lena men Martin och Elin hindrar henne eftersom det verkar vara en fälla.
-  - Knapptelefonen får meddelandet: ”LENA ANDAS FORTFARANDE. DU HAR SJU MINUTER ATT VÄLJA.”
-  - Elin avslöjar att formuleringen liknar ett gammalt förhör kopplat till Marko Vasic och en möjlig domstolskoppling.
-  - Martin börjar starkt misstänka att Elin har vetat mer än hon sagt.
-  - Gruppen gömmer sig vid ett övergivet sågverk.
-  - Elin går ut med knapptelefonen för att rekognoscera och försvinner.
-  - Martin hittar telefonen med sprucken skärm och meddelandet: ”TACK, MARTIN. NU HAR HON VALT SIDA.”
-  - Sågverkets gamla arbetslampor tänds runt dem.
-- Nya kontinuitetspunkter:
-  - Namnet Liv Ekman introduceras som möjlig åklagarkontakt.
-  - Amir har tidigare nämnt Liv Ekman för Jonas.
-  - Meddelandenas formuleringar kan kopplas till ett äldre förhör där Marko Vasic och en domstolskoppling fanns i materialet.
-  - Elin har haft information om en äldre utredning men inte berättat allt.
-  - Elin tog knapptelefonen och försvann med den, men telefonen hittas kvar på sågverket.
-  - Hotet kan styra eller aktivera belysning vid sågverket, vilket antyder närvaro eller förberedd plats.
-- Relationsförändringar:
-  - Martin börjar på allvar misstänka Elin för svek.
-  - Klara ser både Martins misstro och Elins möjliga manipulation, vilket ökar hennes osäkerhet på de vuxna.
-  - Elin och Jonas antyds ha någon tidigare kunskap eller konflikt kring Marko Vasic/Ceder-spåret.
-  - Martin och Klara förenas kort av hotet mot Lena men splittras av frågan om de ska åka till henne.
-  - Pass 2: Elins försvinnande får starkare emotionell effekt eftersom Martin inser att han börjat använda henne som ett ankare; misstanken blir därför både praktisk och personlig.
-- Öppna frågor:
-  - Var är Elin?
-  - Har Elin blivit bortförd, flytt frivilligt eller försökt skydda gruppen?
-  - Vem skickade meddelandet om att Elin valt sida?
-  - Är Lena fortfarande vid liv?
-  - Hur är sågverket förberett, och vem tände arbetslamporna?
-  - Vem är Liv Ekman och kan hon litas på?
-- Cliffhanger/krok:
-  - Elin är borta, telefonen har lämnats kvar med ett manipulerande meddelande och hela sågverket tänds medan Jonas ropar: ”Spring.”

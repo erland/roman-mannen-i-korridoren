@@ -447,36 +447,3 @@ Bakom toalettdörren spolade mannen inte. Tvättade inte händerna. Rörde sig i
 Sedan hördes hans röst därifrån, dämpad men tydlig genom dörren.
 
 ”Klara Lind”, sa han. ”Säg god morgon.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Meddelandet ”Tack, Elin. Din röst räckte” följs av instruktionen att nästa nyckel finns vid Granliden Pensionat, frukostrum, bord 3.
-  - Gruppen lämnar serviceboden och tar sig till pensionatet i uppdelad form.
-  - Martin och Klara går in först, Elin ansluter separat och Jonas håller vakt på parkeringen.
-  - Martin ser en man vid frukosten som han kopplar till mannen i mörk rock från kontoret.
-  - Mannen sätter sig vid bord 3 och tycks känna igen både Martin och Klara.
-  - Elin, Martin och Klara försöker lämna via korridoren men hejdas av osäkerhet kring bakdörrens larm/sensor.
-  - Mannen följer efter dem till korridoren och riktar ett hotfullt, till synes vardagligt uttalande mot Klara.
-- Nya kontinuitetspunkter:
-  - Telefonen visar ”Första nyckeln mottagen. Nästa nyckel vid gryning.”
-  - Platsen Granliden Pensionat och bord 3 introduceras som del av Amirs kopia eller en fälla.
-  - Mannen vid frukosten har en liten ljus ärrlinje i nacken som Martin kopplar till mannen i mörk rock.
-  - Mannen använder repliken ”Man blir hungrig av att resa” och visar att han vet att Klara är på flykt.
-  - Telefonen kräver nu att Klara ska tala: ”Andra nyckeln närmar sig. Låt flickan tala.”
-- Relationsförändringar:
-  - Klara markerar ännu tydligare misstro mot vuxnas beslut men söker samtidigt Martins hand när hotet blir konkret.
-  - Martin försöker agera lugnt men blir alltmer styrd av igenkänning, rädsla och mönstertolkning.
-  - Elin fortsätter vara praktisk men hennes koppling till röstnyckeln gör Martin mer osäker på henne.
-  - Jonas hålls utanför frukostrummet och blir därmed både möjlig vakt och möjlig risk.
-- Öppna frågor:
-  - Är mannen vid frukosten samma person som mannen i mörk rock från kontoret?
-  - Är Granliden Pensionat en fälla, en planerad del av Amirs kopia eller både och?
-  - Hur kan telefonen veta att Klara är i korridoren?
-  - Vad händer om Klara säger något och blir ”andra nyckeln”?
-  - Vad gör Jonas ute på parkeringen när mannen sitter vid bord 3?
-- Cliffhanger/krok:
-  - Mannen bakom toalettdörren säger: ”Klara Lind. Säg god morgon.”
-- Pass 3:
-  - Avslutet förstärkt med ny röstsignal och tydligare hot om nästa röstnyckel.

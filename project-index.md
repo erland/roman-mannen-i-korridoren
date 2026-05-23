@@ -5,10 +5,10 @@
 - Undertitel: Ingenstans är nog långt borta
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-05-23
-- Nuvarande fas: Sista mikroputs genomförd; exportklar
+- Nuvarande fas: Baksidestexter skapade; export- och publiceringsklar
 - Senast godkända kapitel: Kapitel 28 – Utomlands
 - Nästa kapitel: Inget planerat; manus är redo för ny export
-- Omslagsbild: Skapad (`omslag/omslag_mannen_i_korridoren.png`)
+- Omslagsbild: Skapad – original samt högupplösta PNG/JPG 1800×2700 finns i `omslag/` (`omslag/omslag_mannen_i_korridoren.png`)
 
 ## Kapitelinventering
 
@@ -55,6 +55,8 @@
 | tidslinje.md | Händelser i romanen | OK |
 | kontinuitetsanteckningar.md | Fakta och öppna trådar | OK |
 | exports/exportlogg.md | Exporthistorik | OK |
+| exports/apple-books-metadata.md | Kort/lång baksidestext och Apple Books-metadata | OK |
+
 
 ## Synkkontroll
 - Kapitel i `kapitel/`: 28
@@ -63,3 +65,10 @@
 - Senaste kapitel i `arbetslogg.md`: Slutputs och exportförberedelse 2026-05-22
 - Senaste export: Ingen PDF/EPUB skapad ännu
 - Resultat: Synkad och exportförberedd
+
+
+## Publiceringsförberedelse 2026-05-23
+
+- Kapitelnoteringar: flyttade till `kapitel/kapitelnoteringar.md`.
+- Kapitelfiler: rena för export.
+- Synkkontroll: 28 kapitel finns och arbetsnoteringar är separerade från läsartext.

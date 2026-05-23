@@ -551,37 +551,3 @@ Inte åt Martin.
 Och bakom Martin, från domarbänken, hördes rådmannens röst, låg men tydlig:
 
 ”Stäng dörren.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin förs in i en förberedande säkerhets- och bevissäkringsförhandling i rättssalen.
-  - Åsa Holm försöker skydda Martins uppgifter och Cederlistan från försvaret.
-  - Rådmannen introduceras i rättssalen och framstår först som neutral men väcker Martins obehag.
-  - Cederlistan visas delvis med poster som K-417, C-7/RÅDMAN, SJU MINUTER och E.V.
-  - Jonas har vaknat kort och sagt att Elin inte bar telefonen frivilligt samt att C-7 inte är en person utan en funktion/kanal.
-  - Försvaret försöker vända Martins flykt, förstörda telefoner och kontakter med Jonas/Elin till misstankar mot honom.
-  - Rådmannen begränsar vilken del av Martins kompletterande uppgifter som får tas upp.
-  - Någon försöker öppna Klaras säkerhetsrum med giltig behörighet.
-  - Martin hör Klara ropa utanför rättssalen och ser en man med domstolsbricka och passerkort i korridoren.
-- Nya kontinuitetspunkter:
-  - Rättssalsspåret är nu aktivt och C-7/Rådman kan vara en funktion eller kanal snarare än en enskild domare.
-  - Elin kan ha tvingats bära eller använda telefonen, enligt Jonas korta uttalande.
-  - Posten E.V. finns i den maskade Cederlistan.
-  - Säkerhetsrummet där Klara placerats kan nås av någon med giltig behörighet.
-  - En okänd man med domstolsbricka och passerkort finns i korridoren och verkar kommunicera med rådmannen.
-- Relationsförändringar:
-  - Martin börjar lita något mer på Åsa men ser att även hon begränsas av domstolens beslut.
-  - Martins behov av att skydda Klara kolliderar öppet med rättssalens ordning.
-  - Elin blir något mer tvetydig: meddelandet kan vara resultatet av tvång.
-  - Tomas Bergs trovärdighet försvagas när han känt till risker kring Klara men ändå följt proceduren.
-- Öppna frågor:
-  - Vem är mannen med domstolsbricka i korridoren?
-  - Varför hälsar han mot rådmannen?
-  - Är rådmannen själv komprometterad, eller används han av någon annan?
-  - Vad betyder posten E.V. i Cederlistan?
-  - Vart försöker någon föra Klara?
-  - Hur mycket av Martins vittnesmål kommer kunna användas om rättens beslut begränsar helhetsbilden?
-- Cliffhanger/krok:
-  - Mannen i korridoren ler mot rådmannen samtidigt som rådmannen säger: ”Stäng dörren.”

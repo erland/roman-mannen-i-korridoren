@@ -563,38 +563,3 @@ Skärmen lyste blåvit i mörkret.
 Ett nytt meddelande låg över låsskärmen.
 
 **Tack. Nu vet vi vilken väg ni tog.**
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Jonas varning följs upp och Martin, Klara och Elin lämnar hotellets innergård i Jonas bil.
-  - Elin tar förarsätet för att behålla kontrollen och minska risken att Jonas styr dem i en fälla.
-  - Patrik hinner ut på innergården precis när de kör därifrån.
-  - Jonas avslöjar att han hörde Patriks namn och Martins uppgifter i en otillåten informationskanal.
-  - Gruppen tar bakvägar genom industriområdet och vidare mot gamla färjeläget.
-  - En mörk bil följer dem utan ljus och en vit skåpbil blockerar vägen.
-  - Jonas använder en gammal grindöppnare för att få dem genom ett övergivet industriområde.
-  - Vid gamla färjeläget upptäcker de en svart tagg i Klaras ryggsäck.
-  - Martins avstängda/döda mobiltelefon tänds och får ett nytt hotmeddelande.
-- Nya kontinuitetspunkter:
-  - Jonas har tillgång till eller kunskap om en kanal där polisnamn, rum och instruktioner sprids informellt eller olagligt.
-  - Jonas säger att Amir skickade honom till hotellet innan han dog.
-  - Jonas antyder att K-417 handlar om penningtvätt via kommunala ramavtal som senare utvecklats till människohandel eller transport av människor.
-  - En vit skåpbil blockerar flyktvägen; det kan vara samma hotfordon som tidigare eller ett nytt liknande fordon.
-  - Klaras ryggsäck innehåller en svart passiv tagg som kan aktiveras när rätt telefon kommer nära.
-  - Martins telefon, som han trodde var avstängd eller död, tänds vid gamla färjeläget.
-- Relationsförändringar:
-  - Klara tar tydligare plats genom att ifrågasätta Jonas och se igenom hans känslomässiga koppling till Amir.
-  - Martin tappar ytterligare kontroll men vågar bitvis lyssna på Elin och Klara.
-  - Elin blir praktiskt ledande under flykten och Martin ser hennes rädsla utan att den förminskar hennes styrka.
-  - Jonas visar mer skuld och rädsla, men förblir tvetydig.
-- Öppna frågor:
-  - Vem placerade taggen i Klaras ryggsäck och när?
-  - Hur kunde Martins telefon tändas om den var avstängd eller urladdad?
-  - Vilken telefon eller vilket system aktiverar taggen?
-  - Är Jonas vägval räddningen, en fälla eller båda?
-  - Är den vita skåpbilen samma fordon som tidigare följt Martin och Klara?
-  - Vad exakt menade Jonas med att ramavtalen senare började handla om människor?
-- Cliffhanger/krok:
-  - Martins telefon vaknar och visar meddelandet: ”Tack. Nu vet vi vilken väg ni tog.”

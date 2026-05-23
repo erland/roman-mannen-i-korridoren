@@ -55,3 +55,7 @@ Skriv Kapitel 24 – Domarens blick och följ upp mannen med domstolsbricka, rå
 | 2026-05-22 | Pass 3: språk, tempo och cliffhangers | Utvalda kapitelavslut vässade, kapitel 25 kompletterat med notering och status uppdaterad. |
 | 2026-05-22 | Slutputs och exportförberedelse | Metadata, kapitelordning, kapitelnoteringar, omslagsstatus och exportberedskap kontrollerade. |
 | 2026-05-23 | Sista mikroputs genomförd | Rättade tydligt språkfel i kapitel 14 och stramade säkra upprepningar/formuleringar i kapitel 5, 13, 16, 19, 20, 24 och 25 utan att ändra handlingen. |
+| 2026-05-23 | Högupplösta omslagsfiler tillagda | PNG och JPG i 1800 × 2700 px sparade i `omslag/` för publiceringsförberedelse. |
+| 2026-05-23 | Baksidestexter skapade | Kort och lång baksidestext samt Apple Books-metadata sparades i `synopsis.md`, `roman-bibel.md` och `exports/apple-books-metadata.md`. |
+
+| 2026-05-23 | Kapitelnoteringar flyttade | Arbetsnoteringar flyttade från kapitelfilerna till `kapitel/kapitelnoteringar.md` inför publicering/export. |

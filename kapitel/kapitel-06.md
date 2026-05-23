@@ -487,38 +487,3 @@ Martin kände hur trapphuset lutade.
 På andra sidan drog Jonas efter andan.
 
 ”För att det var hos Lena de började vänta.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin kör vidare genom den mörklagda tunneln trots meddelandet ”Stanna bilen så får flickan gå.”
-  - Volvon stöter till bilen, men Martin lyckas svänga ut via en smal serviceväg och undkommer till en bensinstation med kameror och folk.
-  - Martin berättar mycket mer för Klara om Jonas, K-417, de anonyma hoten, tryckmärket och samtalet utan spår.
-  - Lena anländer till bensinstationen och konfronterar Martin.
-  - Martin, Klara och Lena beslutar att Martin och Klara ska lämna stan samma natt, med villkoret att Lena får veta var de är och att de går till polisen nästa dag.
-  - Martin och Klara åker hem för att hämta pass, kontanter, laddare, anteckningsblock och USB-minne.
-  - De upptäcker att någon kan ha varit vid eller i Martins lägenhet.
-  - Jonas ringer och varnar Martin för att gå in och för att ta Klara till Lena.
-- Nya kontinuitetspunkter:
-  - Martin har trasig högerbackspegel och repor på bilen efter servicevägen i tunneln.
-  - Lena känner till planerat första mål: ett pensionat cirka två timmar norrut.
-  - Klara ställer villkor: Lena ska veta var de är och de ska kontakta polisen nästa dag.
-  - Martin och Klara behöver hämta pass, kontanter, laddare, mediciner, svart anteckningsblock och USB-minne från lägenheten.
-  - Någon har manipulerat eller kontrollerat Martins dörrmatta/dörr med tejp.
-  - Jonas ringer Martin direkt och verkar rädd.
-- Relationsförändringar:
-  - Klara kräver att behandlas som delaktig och väljer att följa med Martin.
-  - Martin börjar ge Klara verkligt inflytande i stället för att bara kontrollera henne.
-  - Lena blir aktivt indragen och motsätter sig Martins flyktbeslut, men accepterar tillfälligt Klaras villkor.
-  - Jonas går från tvetydig hotfigur till möjlig varningskälla, utan att hans roll klarnar.
-- Öppna frågor:
-  - Vem släckte eller manipulerade tunnelbelysningen?
-  - Varför följde Volvon inte efter genom servicevägen?
-  - Vem satte tejpen vid Martins lägenhetsdörr?
-  - Var någon inne i lägenheten?
-  - Varför ringer Jonas nu?
-  - Hur vet Jonas att det finns fara hos Lena?
-  - Är Lena redan övervakad eller är Jonas försök att styra Martin?
-- Cliffhanger/krok:
-  - Jonas varnar: ”För att det var hos Lena de började vänta.”

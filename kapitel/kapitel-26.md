@@ -317,27 +317,3 @@ Ett ögonblick syntes bilrutan bakom henne. Norrutgången. Betongväggen. Och i 
 Tomas.
 
 Sedan blev skärmen svart.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin väljer att inte springa till norrutgången utan går in och vittnar, trots hotet mot Elin.
-  - Han gör hotet offentligt genom att säga det högt inför åklagare och domstol.
-  - Klara kräver att få vara i salen och markerar egen agens.
-  - Rådmannen avslår för snabbt åklagarens försök att föra hotet till protokollet, vilket stärker misstanken men gör den mer komplex.
-  - Elin lyckas nå ut via video och säger att det inte är domaren som är köpt utan någon i Martins skyddsgrupp.
-- Nya kontinuitetspunkter:
-  - Telefonen i Klaras ficka används som direkt kanal för hot och video.
-  - Elin lever vid kapitlets slut men är fortfarande fången.
-  - Tomas syns i bilrutans reflex, vilket gör honom akut misstänkt.
-  - Rådmannen kan fortfarande vara pressad, manipulerad eller delaktig, men Elins uppgift flyttar huvudmisstanken.
-- Relationsförändringar:
-  - Martin och Klara når en ny nivå där Klara kräver att få delta i sanningen i stället för att bara skyddas.
-  - Martins känslor för Elin blir tydligare när han väljer att vittna utan att överge henne.
-  - Martins tillit till skyddsgruppen kollapsar.
-- Öppna frågor:
-  - Är Tomas verkligen förrädaren eller planterad i bilden för att splittra gruppen?
-  - Hur kunde Elin starta videon och säga sanningen?
-  - Är rådmannen köpt, pressad eller bara styrd av formalia?
-  - Vem styr C-7/DOMSTOL INTERN?

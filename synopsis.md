@@ -2,15 +2,27 @@
 
 ## Kort baksidestext
 
-Martin Lind är inte en modig man. Han är en pappa, en kollega, en människa som alltid har trott att det räcker att göra rätt för sig.
+Martin Lind har alltid trott att det räcker att göra rätt för sig. Men när en kollega börjar bete sig märkligt och anonyma varningar når honom genom arbetsplatsens tysta korridorer, dras han in i något han inte förstår.
 
-Men när en man på hans arbetsplats börjar dyka upp på fel platser, viska i fel samtal och försvinna vid fel tillfällen, väcks en misstanke Martin inte kan släppa. Sedan kommer den första varningen.
+När hotet närmar sig hans dotter Klara väljer han flykten. Men efter att ha bevittnat ett grovt brott blir Martin själv måltavla. Snart vet han inte längre vem han kan lita på — polisen, rättssalen, kvinnan som hjälper honom, eller ens sina egna misstankar.
+
+*Ingenstans är nog långt borta.*
+
+## Lång baksidestext
+
+Martin Lind är en vanlig man med ett vanligt arbete, ett ordnat liv och en dotter han skulle göra vad som helst för att skydda. Han tror på regler, på dokumentation, på att sanningen till slut går att förklara.
+
+Men på kontoret börjar en kollega dyka upp på fel platser, försvinna vid fel tillfällen och tala med människor han påstår sig inte känna. Martin försöker först låta bli att se sambanden. Sedan kommer den första varningen.
 
 **Sluta gräv.**
 
-När hotet rör sig närmare hans dotter flyttar Martin för att börja om. Men slumpen placerar honom på en plats där han ser något han aldrig borde ha sett. De ser honom också.
+När hotet rör sig närmare hans dotter Klara gör Martin det enda han kan tänka sig: han flyttar, byter rutiner och försöker börja om. I den nya staden möter han Elin, en kvinna som verkar förstå rädslan bättre än någon annan. För första gången på länge anar Martin att det kanske finns någon han kan lita på.
 
-Snart är flykten det enda som återstår. Stad efter stad. Namn efter namn. Lögn efter lögn. Och när Martin till slut bestämmer sig för att vittna upptäcker han att rättssalen kanske är farligare än gatan.
+Då råkar han se något han aldrig borde ha sett.
+
+Ett grovt brott. Män som känner igen honom. Ett nätverk som tycks veta var han är innan han själv hunnit fram. Stad efter stad tvingas Martin och Klara fly vidare, medan varje telefon, hotellkorridor och okänd blick blir ett möjligt hot. När Martin till slut bestämmer sig för att vittna upptäcker han att faran kanske inte bara finns på gatan — utan också i rättssalen.
+
+*Mannen i korridoren* är en psykologisk thriller om rädsla, föräldraskap, tillit och den punkt där försiktighet övergår i paranoia.
 
 ## Sammanfattning av hela handlingen
 

@@ -535,38 +535,3 @@ Det var han själv, stående i dörröppningen till det gamla reningsverket bara
 Klara stängde ögonen.
 
 ”Pappa”, sa hon. ”Det började inte med Jonas.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Personen som fallit i trappan lever fortfarande, men är svårt skadad och bär armband märkt K. LIND.
-  - Jonas och Elin leder gruppen genom köket och ut via bakdörren medan brandlarmet aktiveras.
-  - Bakdörren visar sig vara riskfylld men blir ändå den minst dåliga vägen ut.
-  - Gruppen flyr genom servicegård, grind och skog mot ett gammalt reningsverk.
-  - Jonas skadas/blöder vid sidan men fortsätter hjälpa gruppen.
-  - Vid reningsverket hittar Martin och Elin nycklar till en pickup, men mannen från frukosten dyker upp och hotar Klara via siktlinje/kamera.
-  - Martin kastar nycklarna till Jonas, och Klara kör pickupen därifrån trots att Martin inte visste att hon kunde köra.
-  - Efter flykten avslöjar Klara att hon har en gömd knapptelefon.
-- Nya kontinuitetspunkter:
-  - Mannen från frukosten är aktiv förföljare och skadades av Jonas sten.
-  - De kriminella kan övervaka gruppen i realtid och har någon bakom Martin i reningsverket.
-  - Jonas har en blödande skada i vänster sida, troligen från grinden eller flykten.
-  - Klara kan köra bil, något Martin inte visste.
-  - Klara har gömt en liten knapptelefon i jackfodret.
-  - Klara säger att hotet inte började med Jonas.
-- Relationsförändringar:
-  - Martin ser tydligare att Klara har ett eget hemligt handlingsutrymme.
-  - Klara bryter mot Martins bild av henne som enbart skyddsbehövande.
-  - Elin och Martin samarbetar under extrem press och deras tillit fördjupas.
-  - Jonas agerar praktiskt skyddande, men hans tidigare kopplingar och kunskaper gör honom fortsatt misstänkt.
-- Öppna frågor:
-  - Vem är den skadade personen med K. LIND-armbandet?
-  - Vem fotograferade Martin inifrån reningsverket?
-  - Varifrån fick Klara knapptelefonen?
-  - Vad menar Klara med att det inte började med Jonas?
-  - Hur länge har någon haft kontakt med Klara?
-- Cliffhanger/krok:
-  - Klara visar en gömd telefon med ett nytt hot och säger: ”Det började inte med Jonas.”
-- Pass 3:
-  - Klaras replik behålls som relationell och intrigmotorisk cliffhanger.

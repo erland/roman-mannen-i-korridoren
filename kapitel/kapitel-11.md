@@ -629,39 +629,3 @@ Linjen bröts.
 I samma ögonblick vred den manlige polisen om låset på hotellets huvudentré.
 
 Från insidan.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Martin får sms:et ”Du skulle ha tittat bort” direkt efter mordet på Amir.
-  - Elin drar slutsatsen att någon annan än skytten observerar dem.
-  - Jonas ser mot lastgången och gör en tvetydig varningsgest mot Martin.
-  - En av männen vid kajen upptäcker Martin, Klara och Elin.
-  - Trion flyr genom hotellets källare, tvättstuga, förråd och varuhiss.
-  - En man i keps inne i hotellets personaldel visar upp ett foto av Martin, Klara och Elin, troligen från intern kamera.
-  - Hotaktörerna verkar ha tillgång till hotellets interna rörelser eller kameraövervakning.
-  - Polis anländer till hotellet, men deras närvaro skapar inte full trygghet.
-  - Jonas ringer Martin och varnar att poliserna inte kom för Amir utan för Martin.
-  - Kapitlet slutar med att den manlige polisen låser huvudentrén från insidan.
-- Nya kontinuitetspunkter:
-  - Mannen i keps inne på hotellet har ett foto av Martin, Klara och Elin, troligen från korridorkameran på andra våningen.
-  - Hotellets personal kan vara rädd, pressad eller komprometterad.
-  - Jonas varningsgest kan ha varit ett försök att få Martin att fly, men kan också misstolkas som hot.
-  - Marko Vasic nämns i Jonas perspektiv som ledande gärningsman vid kajen.
-  - Marko vill använda Jonas för att påverka Martin.
-  - Jonas vet eller tror att de två poliserna inte är där av rätt skäl.
-- Relationsförändringar:
-  - Klara kräver mer sanning och visar egen handlingskraft genom att öppna källardörren och agera i hissen.
-  - Martin försöker fortfarande kontrollera tolkningar men tvingas låta Klara och Elin agera.
-  - Elin framstår som praktisk och erfaren, men hennes koppling till liknande hot blir ännu tydligare.
-  - Jonas blir mer dubbel: delaktig i nätverket men försöker samtidigt varna Martin.
-- Öppna frågor:
-  - Är de två poliserna äkta, korrupta eller manipulerade?
-  - Varför låser den manlige polisen huvudentrén från insidan?
-  - Hur fick mannen i keps tillgång till bilden på Martin, Klara och Elin?
-  - Vad vill Marko Vasic egentligen göra med Martin?
-  - Varför tror Jonas att Martin skulle lyssna på honom?
-  - Kommer Elins 112-samtal att leda till verklig hjälp eller till att Martin identifieras snabbare?
-- Cliffhanger/krok:
-  - Jonas varnar att poliserna kom för Martin, samtidigt som en polis låser hotellets huvudentré från insidan.

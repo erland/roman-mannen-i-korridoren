@@ -18,3 +18,8 @@ Denna katalog innehåller metadata om genererade exporter. Exporter är inte rom
 - PDF för utskrift och delning som färdig läsfil.
 - EPUB för e-boksläsare och flexibel textstorlek.
 
+
+
+## Exportunderlag
+
+Kapitelfilerna är nu rensade från kapitelnoteringar. Export ska utgå från `kapitel/kapitel-01.md` till `kapitel/kapitel-28.md` i numerisk ordning.

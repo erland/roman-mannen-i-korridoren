@@ -663,34 +663,3 @@ Och längst bort, på andra sidan glaset, stod Elin Varg med Klaras pass i hande
 Sedan lyfte hon handen, långsamt, och pekade inte mot honom.
 
 Hon pekade mot mannen bakom honom.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Tomas avslöjas ha varit vid norrutgången men verkar ha försökt stoppa en aktör snarare än förråda Martin.
-  - Rättssalen bryter samman när mannen med domstolsbricka dyker upp igen och Tomas ingriper.
-  - Martin, Klara och Åsa flyr genom domstolens interna korridorer med hjälp av Sara Nordin.
-  - Bilen där Elin hölls fången hittas tom, med tecken på att hon antingen flyttats eller tagit sig loss.
-  - Martin och Klara förs mot flygplatsen medan Åsa stannar kvar och distraherar förföljarna.
-  - På flygplatsen får Martin veta att Elin kan vara där.
-- Nya kontinuitetspunkter:
-  - Den stulna domstolsbrickan används för att öppna en väg ut ur domstolen.
-  - Tomas skickade tidigare varningen ”Byt inte fordon” till Liv Ekman, vilket gör hans roll tvetydig men inte entydigt förrädisk.
-  - Elins bil vid norrutgången är tom; hennes pass finns hos Martin, men hon tycks ha använt Klaras identitet.
-  - Åsa Holm är levande men formellt gripen efter vapenincidenten vid serviceområdet.
-  - Liv Ekman styr flykten på distans via kodnamnet Eken.
-- Relationsförändringar:
-  - Klara styr Martin bort från hans impuls att rädda alla och blir avgörande för deras överlevnad.
-  - Martins tillit till Åsa stärks när hon offrar sin egen frihet för att ge dem en chans att nå flygplatsen.
-  - Tomas blir mer komplex: misstänkt, men också möjlig skyddare.
-  - Elins roll blir åter tvetydig genom att hon dyker upp med Klaras pass.
-  - Pass 2: Tomas tvetydighet får emotionell tyngd; hans möjliga skuld handlar mindre om förräderi och mer om en professionell felbedömning som drabbar Martin och Klara personligen.
-- Öppna frågor:
-  - Är Elin fri, tvingad eller del av en ny plan?
-  - Hur fick Elin Klaras pass eller identitet?
-  - Vem skickade bokningen till Lissabon och varför bara två biljetter?
-  - Vad hände med Tomas efter ingripandet i rättssalen?
-  - Hinner Martin och Klara igenom säkerhetskontrollen innan planet lyfter?
-- Pass 3:
-  - Slutet vässat från ren passavslöjande till omedelbart hot bakom Martin.

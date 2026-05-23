@@ -24,6 +24,7 @@ Detta är projektarkivet för romanen **Mannen i korridoren – Ingenstans är n
 - `arbetslogg.md` visar vad som har gjorts.
 - `kapitel/` innehåller kapitelutkast och godkända kapitel.
 - `omslag/` innehåller skapad omslagsbild/framsida.
+- `exports/apple-books-metadata.md` innehåller kort och lång baksidestext samt publiceringsmetadata.
 
 ## Grundprincip
 
@@ -43,3 +44,13 @@ Romanen skrivs kapitelvis. Ny text visas först i chatten och sparas i projektpa
 
 Romanen är exportförberedd från de faktiska kapitelfilerna `kapitel/kapitel-01.md` till `kapitel/kapitel-28.md` i numerisk ordning. Titel, undertitel, författare och omslagsstatus är synkade i projektets kanoniska filer.
 
+
+
+## Omslag för publicering
+
+Högupplösta omslagsfiler har lagts till i `omslag/`: PNG och JPG i 1800 × 2700 px.
+
+
+## Publiceringsklar kapitelstruktur
+
+Kapitelfilerna i `kapitel/kapitel-XX.md` innehåller endast läsartext. Tidigare kapitelnoteringar har sparats separat i `kapitel/kapitelnoteringar.md` som arbetsmaterial och ska inte ingå i EPUB/PDF-export.

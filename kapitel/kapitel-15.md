@@ -425,37 +425,3 @@ Telefonen slutade lysa.
 En sekund senare tändes skärmen igen med en ny rad text.
 
 **Tack, Elin. Din röst räckte.**
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Gruppen följer upp telefonen märkt ”AMIR KOPIA” i serviceboden.
-  - Telefonen kräver fyra röster och visar initialerna M-K-E-J.
-  - Jonas avslöjar att Amir tidigare talat om en kopia och att fyra personer skulle krävas för att öppna den.
-  - Jonas visar ett USB-minne som Amir gav honom före mordet.
-  - Elin kräver att Martin berättar sanningen om vad han själv har dolt.
-  - Martin avslöjar att han sparat en bild av tryckmärket/K-417-spåret på ett USB-minne i sin övergivna bil.
-- Nya kontinuitetspunkter:
-  - Telefonen i serviceboden kan känna igen eller spela in röster.
-  - Initialerna M-K-E-J kopplas till Martin, Klara, Elin och Jonas.
-  - Amir har eventuellt byggt en kopia/nyckel som kräver flera personer för att öppnas.
-  - Jonas har ett svart USB-minne med röd tejpbit som Amir gav honom.
-  - Martins eget USB-minne `budgetmall_november` ligger kvar i hans övergivna bil.
-  - Någon har varit inne i serviceboden under eller före samtalet.
-- Relationsförändringar:
-  - Elin kräver öppenhet och markerar att Martin inte längre får fatta beslut ensam.
-  - Martin berättar mer men skadar Klaras tillit genom att avslöja ännu en undanhållen detalj.
-  - Klara uttrycker tydligt att vuxna chansar med hennes liv.
-  - Jonas blir mer desperat och visar att hans hjälp drivs både av skuld och självbevarelse.
-  - Martin och Elins relation fördjupas genom konflikt, inte trygghet.
-  - Pass 2: Martins dragning till Elin får tydligare emotionell risk; hennes hemligheter skadar honom mer än Jonas lögner eftersom han redan börjat vilja lita på henne.
-- Öppna frågor:
-  - Vad innehåller Amirs USB-minne?
-  - Varför krävs fyra röster?
-  - Hur kunde telefonen påstå att Elins röst räckte?
-  - Har Elin sagt något tidigare som använts som röstverifiering?
-  - Vem stod i servicebodens öppning och lämnade fotavtrycket?
-  - Är Martins övergivna bil redan genomsökt?
-- Cliffhanger/krok:
-  - Telefonen visar: ”Tack, Elin. Din röst räckte.”

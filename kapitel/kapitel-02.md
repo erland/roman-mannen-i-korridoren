@@ -423,33 +423,3 @@ Inifrån rum Eken tystnade skrapandet.
 Klick.
 
 Låset framför Martin vreds om från insidan.
-
----
-
-## Kapitelnotering
-- Viktiga händelser:
-  - Martin försöker rationalisera sms:et men sparar det och börjar agera mer metodiskt.
-  - Martin har varm sms-kontakt med Klara inför utvecklingssamtalet, vilket etablerar deras relation och dagens tidsram.
-  - Sandra och Amir bekräftar att Jonas påstående om serverproblem inte stämmer.
-  - Jonas säger offentligt att han gick till ”fel dörr” och antyder privat att Martin ska sluta lägga sig i.
-  - Amir berättar att ett gammalt servicekonto sökt på K-417 under natten och att ärendet verkar raderat eller flyttat.
-  - Martin söker efter en möjlig fysisk kopia vid rum Eken, men överraskas av Jonas.
-- Nya kontinuitetspunkter:
-  - Klara är 17 år.
-  - Martin har utvecklingssamtal med Klara kl. 16 samma dag.
-  - Amir på IT är observant, försiktig och kan bli en tidig informationskälla.
-  - K-417 har funnits digitalt men är nu borta eller dolt.
-  - Ett gammalt servicekonto användes för att söka på K-417 under natten.
-  - Det finns ett äldre grått brandskåp bakom rum Eken där fysiska kopior kan finnas.
-- Relationsförändringar:
-  - Martin och Jonas går från dold misstanke till försiktig konfrontation.
-  - Amir tar en risk genom att berätta om loggarna för Martin.
-  - Martin och Klara etableras som nära men vardagligt ironiska.
-- Öppna frågor:
-  - Vem använde servicekontot?
-  - Vad innehåller eller innehöll K-417?
-  - Vem eller vilka finns inne i rum Eken?
-  - Hur fick Jonas tillgång till nycklarna?
-  - Varför har Jonas bytt skjorta?
-- Cliffhanger/krok:
-  - Jonas överraskar Martin vid den låsta dörren till rum Eken samtidigt som någon låser upp eller låser om från insidan.
