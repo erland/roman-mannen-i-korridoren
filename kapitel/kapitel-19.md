@@ -1,7 +1,5 @@
 # Kapitel 19 – Det Klara vet
 
-”Det började inte med Jonas”, sa Klara.
-
 Orden låg kvar i pickupens kalla kupé som rök efter en avfyrning. Ingen tog i dem först. Martin hörde bara motorn som tickade under huven, regnet mot plåttaket och det avlägsna mullret från vägen bakom ladan. Långt borta rörde sig andra fordon, men han kunde inte längre avgöra om de kom närmare eller om hans kropp bara hade lärt sig att tillverka hot ur alla ljud.
 
 Klara höll knapptelefonen med båda händerna. Den var liten och ful, en sådan som såldes kontant i butiker där ingen frågade efter namn. Skärmen lyste blåaktigt över hennes fingrar. Hon hade gömt den i jackfodret, nära kroppen, som en hemlighet hon varit tvungen att bära tills den började bränna.

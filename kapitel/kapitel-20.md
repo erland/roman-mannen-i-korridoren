@@ -170,7 +170,7 @@ Först såg Martin inget. Sedan såg han två ljuspunkter långt nere på grusv�
 
 Klara såg dem också.
 
-Det avgjorde henne inte. Det vred henne bara sönder.
+Det avgjorde inget för henne. Det vred bara sönder henne.
 
 ”Mamma”, viskade hon.
 
@@ -350,7 +350,7 @@ Hon såg på honom. I en sekund var hon inte den vaksamma kvinnan från hotellet
 
 Hon tog knapptelefonen med sig.
 
-Martin reste sig halvt. ”Ge kvar den.”
+Martin reste sig halvt. ”Lämna kvar den.”
 
 Men hon var redan ute i regnet.
 

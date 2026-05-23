@@ -1,7 +1,5 @@
 # Kapitel 17 – Fel namn på bokningen
 
-”Klara Lind”, sa mannen bakom dörren. ”Säg god morgon.”
-
 Ingen av dem rörde sig.
 
 Det var märkligt, tänkte Martin, hur snabbt en kropp kunde bli till en karta över rädsla. Hans händer visste var Klara stod. Hans bröstkorg visste var Elin stod. Hans ögon räknade dörrar, handtag, avståndet till korridorens slut, den röda brandsläckaren, den smala trappan med skylten mot källarplanet. Allt fick betydelse och ingenting gick att använda.
@@ -288,7 +286,7 @@ Jonas blev grå i ansiktet. Inte blek. Grå. Som om blodet inte lämnat huden ut
 
 Jonas såg mot Klara. För en gångs skull fanns ingen irritation, inget skyddande hån i hans ansikte. Bara rädsla.
 
-”Inte gå upp”, sa han. ”Vad ni än tror att ni behöver se, gå inte upp.”
+”Gå inte upp”, sa han. ”Vad ni än tror att ni behöver se, gå inte upp.”
 
 Det borde ha avgjort saken. Det gjorde det inte.
 

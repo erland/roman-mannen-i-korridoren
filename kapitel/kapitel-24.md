@@ -536,7 +536,7 @@ De gick ut i korridoren i en tät grupp. Tomas först trots allt. Åsa bredvid S
 
 ”Jag vet.”
 
-”Då gör det inte så uppenbart att du inte tror det.”
+”Gör det då inte så uppenbart att du inte tror det.”
 
 Han släppte hennes hand.
 

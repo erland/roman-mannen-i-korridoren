@@ -4,8 +4,6 @@ Jonas hade inte höjt rösten.
 
 Ändå hörde Martin honom som om orden hade ropats över hela innergården.
 
-”Ni har tio minuter innan Patrik spärrar vägen ut ur Sundhamn.”
-
 Regnet föll snett mellan hotellväggarna. Det var ett tunt, rastlöst regn som gjorde gatlyktans ljus kornigt och fick asfalten att blänka som svart plast. Jonas stod vid den mörkblå kombin med förardörren öppen. Motorn var fortfarande igång. Avgaserna drev lågt över marken.
 
 Martin kom inte fram ur skuggan.

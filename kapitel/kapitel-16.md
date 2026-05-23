@@ -2,8 +2,6 @@
 
 Elin läste meddelandet utan att röra telefonen.
 
-**Tack, Elin. Din röst räckte.**
-
 Orden låg kvar på skärmen, stilla och artiga, som om någon tackat för ett glas vatten.
 
 Martin hörde regnet mot taket. Han hörde Klaras andetag bakom sig, snabba men kontrollerade, och Jonas korta, trasiga svordom. Han hörde Elin, eller snarare frånvaron av henne. Hon blev helt tyst.
@@ -80,7 +78,7 @@ Martin såg på honom och kände hur tröttheten gjorde verkligheten smalare. Gr
 
 ”Vi åker inte dit”, sa Klara.
 
-Ingen motsade henne först.
+Ingen sa emot henne först.
 
 Utanför serviceboden bröt gryningen långsamt sönder natten. Inte ljus, bara en tunnare sorts mörker. Vattnet vid färjeläget var svartgrått och vägbanan glimmade av regn. Någonstans långt borta körde en lastbil över en bro och ljudet kom genom landskapet som ett dovt muller.
 

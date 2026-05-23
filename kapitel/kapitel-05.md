@@ -1,7 +1,5 @@
 # Kapitel 5 – Klara
 
-*Nu vet hon också.*
-
 Meddelandet låg kvar på skärmen medan dörren till klassrummet öppnades bakom Martin.
 
 Först förstod han inte vem *hon* var.
