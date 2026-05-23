@@ -1,6 +1,6 @@
 # Kapitel 25 – Ett beslut i fel riktning
 
-Martin såg sitt eget namn där. Inte Martin. Inte okänt nummer. Inte en sifferrad från ett kontantkort. Bara det ord som borde ha varit tryggast i världen och nu hade blivit något någon annan kunde använda.
+Martin såg sitt eget namn där. Inte Martin, inte okänt nummer, inte en sifferrad från ett kontantkort. Bara det ord som borde ha varit tryggast i världen och nu hade blivit något någon annan kunde använda.
 
 ”Svara inte”, sa Åsa Holm.
 

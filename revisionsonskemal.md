@@ -18,3 +18,4 @@ Här samlas saker som ska förbättras senare men inte behöver stoppa framåtsk
 | Pass 3 | Språk, tempo, kapitelöppningar och cliffhangerputs | Hög | Genomfört i Pass 3 |
 | Hela manus | Pass 3 genomfört: språk, tempo och cliffhangers stramade i utvalda kapitel; kvarstår slutputs för stavning/formatering inför export. | Hög | Genomfört 2026-05-22 |
 | Hela projektet | Slutputs och exportförberedelse: metadata, kapitelordning, omslagsstatus, exportberedskap och synkkontroll | Hög | Genomfört 2026-05-22 |
+| Hela manus | Sista mikroputs efter användarens manuella justeringar: tydligt språkfel rättat och några säkra upprepningar i kapitelövergångar/telefonsekvenser stramade. | Hög | Genomfört 2026-05-23 |

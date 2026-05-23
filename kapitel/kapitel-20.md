@@ -1,6 +1,6 @@
 # Kapitel 20 – Elin försvinner
 
-Lenas röst fortsatte eka i Martins huvud efter att samtalet brutits, trots att telefonen låg svart i Klaras knä.
+Lenas röst hängde kvar i Martins huvud efter att samtalet brutits, fast skärmen redan låg svart i Klaras knä.
 
 Det står en man i min hall.
 

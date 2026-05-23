@@ -672,9 +672,9 @@ Och i samma ögonblick öppnades dörren till rättssalen bakom dem, och rådman
 
 Telefonen i Klaras hand slutade ringa.
 
-Sedan började Martins egen telefon vibrera.
+Då vibrerade det i Martins ficka.
 
-På skärmen stod samma ord:
+På displayen stod samma ord:
 
 **PAPPA**
 

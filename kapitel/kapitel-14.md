@@ -1,6 +1,6 @@
 # Kapitel 14 – Telefonen i sjön
 
-Telefonen lös i Martins hand som om den aldrig hade varit död.
+Telefonen lyste i Martins hand som om den aldrig hade varit död.
 
 Det var det första han inte kunde förstå. Inte med rädsla. Inte med logik. Inte ens med den torra, envisa del av honom som fortfarande försökte dela upp allt i möjliga och omöjliga förklaringar.
 

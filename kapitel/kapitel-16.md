@@ -2,7 +2,7 @@
 
 Elin läste meddelandet utan att röra telefonen.
 
-Orden låg kvar på skärmen, stilla och artiga, som om någon tackat för ett glas vatten.
+Orden låg kvar på skärmen, stilla och artiga, med en hövlighet som gjorde dem värre.
 
 Martin hörde regnet mot taket. Han hörde Klaras andetag bakom sig, snabba men kontrollerade, och Jonas korta, trasiga svordom. Han hörde Elin, eller snarare frånvaron av henne. Hon blev helt tyst.
 

@@ -4,10 +4,10 @@
 - Titel: Mannen i korridoren
 - Undertitel: Ingenstans är nog långt borta
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-22
-- Nuvarande fas: Slutputs och exportförberedelse genomförd
+- Senast uppdaterad: 2026-05-23
+- Nuvarande fas: Sista mikroputs genomförd; exportklar
 - Senast godkända kapitel: Kapitel 28 – Utomlands
-- Nästa kapitel: Inget planerat; manus är redo för export eller sista provläsning
+- Nästa kapitel: Inget planerat; manus är redo för ny export
 - Omslagsbild: Skapad (`omslag/omslag_mannen_i_korridoren.png`)
 
 ## Kapitelinventering

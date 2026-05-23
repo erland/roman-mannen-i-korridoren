@@ -54,3 +54,4 @@ Skriv Kapitel 24 – Domarens blick och följ upp mannen med domstolsbricka, rå
 | 2026-05-22 | Pass 2: karaktär och relation genomförd | Fördjupade Martin/Klara, Martin/Elin, Elin/Helena, Tomas och slutets relationella payoff. |
 | 2026-05-22 | Pass 3: språk, tempo och cliffhangers | Utvalda kapitelavslut vässade, kapitel 25 kompletterat med notering och status uppdaterad. |
 | 2026-05-22 | Slutputs och exportförberedelse | Metadata, kapitelordning, kapitelnoteringar, omslagsstatus och exportberedskap kontrollerade. |
+| 2026-05-23 | Sista mikroputs genomförd | Rättade tydligt språkfel i kapitel 14 och stramade säkra upprepningar/formuleringar i kapitel 5, 13, 16, 19, 20, 24 och 25 utan att ändra handlingen. |

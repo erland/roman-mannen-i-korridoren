@@ -2,16 +2,16 @@
 
 ## Nuvarande fas
 
-Slutputs och exportförberedelse genomförd. Romanen är redo för PDF/EPUB-export eller en sista manuell provläsning före export.
+Sista mikroputs genomförd efter användarens manuella kapiteljusteringar. Romanen är redo för ny PDF/EPUB-export.
 
 ## Senast godkända kapitel eller del
 
 - Senast godkända: Kapitel 28 – Utomlands
-- Senast ändrad: Slutputs och exportförberedelse av hela projektet
+- Senast ändrad: Sista mikroputs av språk, upprepningar och kapitelövergångar
 
 ## Nästa rekommenderade steg
 
-Skapa export i önskat format: PDF, EPUB eller båda. Exporten ska utgå från de faktiska kapitelfilerna i `kapitel/` i numerisk ordning.
+Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå från de faktiska kapitelfilerna i `kapitel/` i numerisk ordning.
 
 ## Viktiga öppna beslut
 
@@ -34,7 +34,7 @@ Skapa export i önskat format: PDF, EPUB eller båda. Exporten ska utgå från d
 - Författare: Erland Lindmark
 - Kapitel: 1–28 finns i `kapitel/`
 - Omslagsbild: Skapad och sparad som `omslag/omslag_mannen_i_korridoren.png`
-- Senaste manusfas: Pass 3 genomfört och slutputs/exportförberedelse genomförd
+- Senaste manusfas: Pass 3 genomfört, slutputs/exportförberedelse genomförd och sista mikroputs gjord efter användarens manuella ändringar
 
 ## Användarens aktuella önskemål
 

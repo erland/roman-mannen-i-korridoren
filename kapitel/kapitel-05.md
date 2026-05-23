@@ -1,6 +1,6 @@
 # Kapitel 5 – Klara
 
-Meddelandet låg kvar på skärmen medan dörren till klassrummet öppnades bakom Martin.
+Meddelandet låg kvar medan dörren till klassrummet öppnades bakom Martin.
 
 Först förstod han inte vem *hon* var.
 
