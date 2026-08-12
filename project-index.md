@@ -88,3 +88,17 @@
 - Fil: `exports/mannen_i_korridoren_apple_books_final.epub`
 - Status: Skapad efter EPUBCheck-fel om tomt `dc:publisher`.
 - Kommentar: Titelsida finns en gång; navigations-TOC är inte en normal lässida.
+## GitHub Actions och publiceringsfiler
+
+| Fil | Syfte | Status |
+|---|---|---|
+| `.github/workflows/01-validate.yml` | Automatisk projektvalidering | OK |
+| `.github/workflows/02-build-preview.yml` | Manuell EPUB/PDF-preview | OK |
+| `.github/workflows/03-release.yml` | Releasebygge vid `v*`-tagg | OK |
+| `scripts/validate_project.py` | Projekt- och manusvalidering | OK |
+| `scripts/build_book.py` | Pandoc-bygge av EPUB/PDF | OK |
+| `publishing/metadata.yaml` | Exportmetadata | OK |
+| `publishing/epub.css` | EPUB-stil | OK |
+| `publishing/pdf-template.tex` | PDF-template | OK |
+| `publishing/pdf-filter.lua` | PDF-kapitelformatering | OK |
+

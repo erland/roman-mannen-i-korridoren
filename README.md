@@ -69,3 +69,15 @@ Kapitelfilerna i `kapitel/kapitel-XX.md` innehåller endast läsartext. Tidigare
 Senaste korrigerade EPUB: `exports/mannen_i_korridoren_apple_books_final.epub`.
 
 Fixar: ifyllt publisher-fält, borttagen dubblerad titelsida och TOC markerad som icke-linjär lässida.
+## GitHub Actions och publicering
+
+Projektet innehåller nu en `.github/`-katalog i repositoryts rot, på samma nivå som `README.md`.
+
+Workflow-filer:
+
+- `.github/workflows/01-validate.yml` – validerar projektstruktur och kapitelfiler vid pull request och push till `main`.
+- `.github/workflows/02-build-preview.yml` – manuell preview-build som skapar EPUB och PDF som ett gemensamt GitHub Actions-artifact.
+- `.github/workflows/03-release.yml` – release-build som triggas av `v*`-taggar och laddar upp EPUB/PDF som release assets.
+
+Bygg- och valideringslogik ligger i `scripts/` och publiceringsinställningar ligger i `publishing/`.
+

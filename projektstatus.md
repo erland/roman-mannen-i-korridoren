@@ -72,3 +72,11 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 ## Senaste exportjustering
 
 - Apple Books-EPUB uppdaterad: författarnamnet visas endast en gång på titelbladet och copyrighttexten lyder ”Alla rättigheter reserverade”.
+## GitHub Actions/publicering
+
+- GitHub Actions är infört enligt publiceringskitets koncept.
+- `.github/` ligger i projektroten på samma nivå som `README.md`.
+- Validering, preview-build och release-build finns i `.github/workflows/`.
+- Byggscript och publiceringsmetadata finns i `scripts/` respektive `publishing/`.
+- Nästa tekniska steg: lägg upp projektet i ett GitHub-repository och kör workflowt **Validate** samt en manuell **Build Preview**.
+
