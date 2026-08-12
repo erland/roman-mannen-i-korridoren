@@ -23,3 +23,6 @@ Denna katalog innehåller metadata om genererade exporter. Exporter är inte rom
 ## Exportunderlag
 
 Kapitelfilerna är nu rensade från kapitelnoteringar. Export ska utgå från `kapitel/kapitel-01.md` till `kapitel/kapitel-28.md` i numerisk ordning.
+## GitHub Actions
+
+Framtida exporter kan byggas via GitHub Actions med `scripts/build_book.py`. Preview-build laddas upp som Actions-artifact och release-build publicerar EPUB/PDF som GitHub Release assets.
