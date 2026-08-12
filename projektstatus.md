@@ -80,3 +80,8 @@ Skapa ny export i önskat format: PDF, EPUB eller båda. Exporten ska utgå frå
 - Byggscript och publiceringsmetadata finns i `scripts/` respektive `publishing/`.
 - Nästa tekniska steg: lägg upp projektet i ett GitHub-repository och kör workflowt **Validate** samt en manuell **Build Preview**.
 
+
+
+## Teknisk publiceringsstatus
+
+- 2026-08-12: PDF-mallen i `publishing/pdf-template.tex` är uppdaterad för att undvika tom sida före omslag och innehållsförteckning i GitHub Actions-bygget.

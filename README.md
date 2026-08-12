@@ -81,3 +81,7 @@ Workflow-filer:
 
 Bygg- och valideringslogik ligger i `scripts/` och publiceringsinställningar ligger i `publishing/`.
 
+
+## GitHub Actions PDF-fix
+
+PDF-mallen är uppdaterad så att bygget inte skapar en tom sida före omslagsbilden eller före innehållsförteckningen.

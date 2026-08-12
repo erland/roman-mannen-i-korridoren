@@ -26,3 +26,8 @@ Kapitelfilerna är nu rensade från kapitelnoteringar. Export ska utgå från `k
 ## GitHub Actions
 
 Framtida exporter kan byggas via GitHub Actions med `scripts/build_book.py`. Preview-build laddas upp som Actions-artifact och release-build publicerar EPUB/PDF som GitHub Release assets.
+
+
+## PDF-fix
+
+2026-08-12: Nästa PDF-export från GitHub Actions ska inte innehålla extra tom sida före omslag eller innehållsförteckning.
