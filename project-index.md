@@ -102,3 +102,8 @@
 | `publishing/pdf-template.tex` | PDF-template | OK |
 | `publishing/pdf-filter.lua` | PDF-kapitelformatering | OK |
 
+
+
+## Publiceringsverktyg
+
+- PDF-mall fixad 2026-08-12: inga extra tomma sidor ska skapas före omslag eller innehållsförteckning.

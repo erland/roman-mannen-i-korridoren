@@ -9,3 +9,5 @@
 | 2026-05-23 | EPUB / Apple Books | mannen_i_korridoren_apple_books.epub | Kapitel 1–28 | Skapad med Pandoc 3.1.11.1 från rena kapitelfiler; omslag 1800x2700 inkluderat; EPUBCheck ej körd i miljön. |
 | 2026-05-23 | EPUB | mannen_i_korridoren_apple_books_fixed.epub | Kapitel 1–28 | Korrigerad Apple Books-EPUB: publisher ifyllt, dubblerat titelblad borttaget, nav/TOC ej linjär lässida. |
 | 2026-05-23 | EPUB | mannen_i_korridoren_apple_books_final.epub | Kapitel 1–28 | Titelblad korrigerat så författaren endast visas en gång; copyrighttext ändrad till ”Alla rättigheter reserverade”. |
+
+| 2026-08-12 | PDF | mannen_i_korridoren_pdf_fixed.pdf | Kapitel 1–28 | Testexport efter PDF-mallfix; inga extra tomma sidor före omslag eller innehållsförteckning. |

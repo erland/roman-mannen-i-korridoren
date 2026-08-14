@@ -43,3 +43,8 @@ python3 scripts/build_book.py --output-dir dist --formats pdf
 
 Bygget är låst till Pandoc 3.1.11.1 för reproducerbar EPUB/PDF-export.
 PDF-bygget kräver XeLaTeX och TeX Gyre Pagella-fonten.
+
+
+## Tomma sidor i PDF
+
+2026-08-12: `pdf-template.tex` använder nu `eso-pic` för att lägga omslaget direkt på första sidan utan `\newgeometry`, och ersätter `\frontmatter`/`\mainmatter` med direkt sidnumrering för att undvika automatiska blanksidor före innehållsförteckningen.
